@@ -1,2 +1,50 @@
+![WhatsApp Image 2025-10-30 at 17 19 15_d2ce09d3](https://github.com/user-attachments/assets/0060828b-f7f8-4e5b-9982-ec2b764ce8e3)
+
 # level-2-code-karaoke
 Level 2 questions for code karaoke event, there are 2 questions write the program and test it with examples in those questions and upload in fork 
+# Question 1:
+1.Tow Sum:
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+ 
+# Example 1:
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+# Example 2:
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+
+# Example 3:
+Input: nums = [3,3], target = 6
+Output: [0,1]
+
+# CODE:
+
+# OUTPUT:
+
+
+# Question 2:
+1. Palindrome Number:
+
+Given an integer x, return true if x is a palindrome, and false otherwise.
+ 
+# Example 1:
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+# Example 2:
+Input: x = -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+# Example 3:
+Input: x = 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+
+# CODE:
+
+# OUTPUT:

@@ -25,8 +25,19 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 
 # CODE:
+```
+def sum():
+  nums=[2,7,11,15]
+  target=7
+  for i in range(len(nums):
+      for j in range(i+1,len(nums)):
+          if nums[i] + nums[j] == target
+                 return[i,j]
+print(sum())
+```
 
 # OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-11-08 103853" src="https://github.com/user-attachments/assets/afa0ca32-4b59-43c8-8f06-9d9ad215fa77" />
 
 
 # Question 2:
@@ -50,4 +61,10 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 # CODE:
 
+
+<img width="1546" height="845" alt="Screenshot 2025-11-08 105306" src="https://github.com/user-attachments/assets/63f23bad-1f64-4be9-880c-db7de35e868f" />
+
+
 # OUTPUT:
+<img width="1546" height="845" alt="Screenshot 2025-11-08 105306" src="https://github.com/user-attachments/assets/6fc45a09-5bef-4a87-a447-ee7d2af2cf65" />
+
